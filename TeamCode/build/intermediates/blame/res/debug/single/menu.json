@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/menu/menu_server.xml",
+        "source": "/Users/bziegler/.android/build-cache/8f5e575fbc56d20852f7a46a401c08a9b214bb94/output/res/menu/menu_server.xml"
+    },
+    {
+        "merged": "/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/menu/ftc_robot_controller.xml",
+        "source": "/Users/bziegler/Desktop/ftc_app-master/FtcRobotController/build/intermediates/bundles/default/res/menu/ftc_robot_controller.xml"
+    },
+    {
+        "merged": "/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/bziegler/.android/build-cache/bc7e8d65168fc82f7fa2bc564f53af22dc6132fa/output/res/menu/main_menu.xml"
+    }
+]

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/bziegler/.android/build-cache/9b9fbd754f1f6b530194527dbe296f6d4b843eed/output/jars/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="91b46366eb9f8203073ee2935087c097c888c0ed">
+        <dex dex="/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/Vuforia_87ac47b9dd1e1d9a4cfaf8c8ca4932ee26c27c1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bziegler/.android/build-cache/522ac07a0bbfa0a5b89395b331da7fda6dff194b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="96cbbea552fe9bf3c56540c7e4912eb5cf72301e">
+        <dex dex="/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/classes_a77740bba6ef0414ad6e5cfad81c4e5a6cd25951.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bziegler/Desktop/ftc_app-master/FtcRobotController/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="63096d280a6d0792ddbe5601216c3bc2bb685e8c">
+        <dex dex="/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/classes_1568811d3e515d001361493f6065402c40ef01bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bziegler/.android/build-cache/9b9fbd754f1f6b530194527dbe296f6d4b843eed/output/jars/libs/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e118dd0900e4a18fb928ebb8df2d9fbda78f2b5d">
+        <dex dex="/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/gson-2.8.0_b72d9501062e3be70b40a8d1eb33d8d8ac86fe22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bziegler/.android/build-cache/9b9fbd754f1f6b530194527dbe296f6d4b843eed/output/jars/libs/javac.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c576121aac49e547b39aedfb1daa29782db4166c">
+        <dex dex="/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/javac_97a24a68c4cd8c4edf4e366af9cee55e4cfcafc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bziegler/.android/build-cache/bc7e8d65168fc82f7fa2bc564f53af22dc6132fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9da82f9829b6cafb8407989729481220ca06c905">
+        <dex dex="/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/classes_98210ee7224ca984db9d37d6a0dd8bf112b09d95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bziegler/.android/build-cache/485da507b373345b8243b228463269dff3dfd893/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2abba0621a5319232804767218216568263aa37">
+        <dex dex="/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/classes_baec78d5f5402ba2ab2e336899617f1ddcf3f3a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bziegler/.android/build-cache/9b9fbd754f1f6b530194527dbe296f6d4b843eed/output/jars/libs/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a214d3b1b12e72f4fb0d5d5d8d0ec43c96de2b5">
+        <dex dex="/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_ec03d5cee4a3ff1ef02cd3ada306da788e3d148b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bziegler/.android/build-cache/9b9fbd754f1f6b530194527dbe296f6d4b843eed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e259d01a014f392930432e85cc1ac9bf807a92df">
+        <dex dex="/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/classes_e9c07d1be0d962480bae02f8fc73a9f327a48a38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bziegler/.android/build-cache/8f5e575fbc56d20852f7a46a401c08a9b214bb94/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="75bdc736b17d8f39d246beac357cb3a0e007fcfa">
+        <dex dex="/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/classes_f881190daaf3480396e277eb770d99cdd37c536f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bziegler/.android/build-cache/be3c3f53b06a5dc1dc53bb9be5398c54b2b0c48a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/classes_968c2fca032d2fb83c722783ec4f165d1cdbbbe3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bziegler/.android/build-cache/fb08da6364017baa4dab2c23e2885b360593c813/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/classes_7c08dc537edf66c666cf6cbfaa1b55728edbf623.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bziegler/.android/build-cache/9b9fbd754f1f6b530194527dbe296f6d4b843eed/output/jars/libs/gson-extras-0.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b30c2655badcc7ce97f84e49f777b7dd154bad57">
+        <dex dex="/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/pre-dexed/debug/gson-extras-0.2.1_86c3058ee8d01728273d61e9a9891efb15022fc0.jar" />
+    </item>
+
+</items>
