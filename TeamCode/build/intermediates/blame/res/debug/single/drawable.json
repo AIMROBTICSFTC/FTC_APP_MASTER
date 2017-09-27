@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/drawable/icon_robotcontroller.png",
+        "source": "/Users/rervin/.android/build-cache/da7247d627fba95e661093c1a7c300dfe86b5d5f/output/res/drawable/icon_robotcontroller.png"
+    },
+    {
         "merged": "/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/drawable/icon_robotcontroller.png",
         "source": "/Users/bziegler/.android/build-cache/bc7e8d65168fc82f7fa2bc564f53af22dc6132fa/output/res/drawable/icon_robotcontroller.png"
     },
@@ -8,8 +12,16 @@
         "source": "/Users/bziegler/.android/build-cache/485da507b373345b8243b228463269dff3dfd893/output/res/drawable/button_shape.xml"
     },
     {
+        "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/drawable/black_border.xml",
+        "source": "/Users/rervin/.android/build-cache/0d882446643358993927aec940dc862631a72387/output/res/drawable/black_border.xml"
+    },
+    {
         "merged": "/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/drawable/feedback_shape_orange.xml",
         "source": "/Users/bziegler/.android/build-cache/9b9fbd754f1f6b530194527dbe296f6d4b843eed/output/res/drawable/feedback_shape_orange.xml"
+    },
+    {
+        "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/drawable/icon_menu.png",
+        "source": "/Users/rervin/.android/build-cache/da7247d627fba95e661093c1a7c300dfe86b5d5f/output/res/drawable/icon_menu.png"
     },
     {
         "merged": "/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/drawable/icon_menu.png",
@@ -18,5 +30,13 @@
     {
         "merged": "/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/drawable/black_border.xml",
         "source": "/Users/bziegler/.android/build-cache/8f5e575fbc56d20852f7a46a401c08a9b214bb94/output/res/drawable/black_border.xml"
+    },
+    {
+        "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/drawable/feedback_shape_orange.xml",
+        "source": "/Users/rervin/.android/build-cache/e695a6c8c4d49c46d7df7f44f045d37f72af1239/output/res/drawable/feedback_shape_orange.xml"
+    },
+    {
+        "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/drawable/button_shape.xml",
+        "source": "/Users/rervin/.android/build-cache/2504f7c3adab831cbaaa2028210950f2b7dccb7f/output/res/drawable/button_shape.xml"
     }
 ]

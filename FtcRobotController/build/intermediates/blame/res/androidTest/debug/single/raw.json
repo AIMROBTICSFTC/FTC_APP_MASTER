@@ -4,6 +4,14 @@
         "source": "/Users/bziegler/.android/build-cache/9b9fbd754f1f6b530194527dbe296f6d4b843eed/output/res/raw/simple_vertex_shader.glsl"
     },
     {
+        "merged": "/Users/rervin/FTC_APP_MASTER/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/simple_vertex_shader.glsl",
+        "source": "/Users/rervin/.android/build-cache/e695a6c8c4d49c46d7df7f44f045d37f72af1239/output/res/raw/simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/rervin/FTC_APP_MASTER/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/cube_mesh_fragment_shader.glsl",
+        "source": "/Users/rervin/.android/build-cache/e695a6c8c4d49c46d7df7f44f045d37f72af1239/output/res/raw/cube_mesh_fragment_shader.glsl"
+    },
+    {
         "merged": "/Users/bziegler/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/nxtstartupsound.wav",
         "source": "/Users/bziegler/.android/build-cache/485da507b373345b8243b228463269dff3dfd893/output/res/raw/nxtstartupsound.wav"
     },
@@ -14,6 +22,10 @@
     {
         "merged": "/Users/bziegler/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/color_fragment_shader.glsl",
         "source": "/Users/bziegler/.android/build-cache/9b9fbd754f1f6b530194527dbe296f6d4b843eed/output/res/raw/color_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/rervin/FTC_APP_MASTER/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/errormessage.wav",
+        "source": "/Users/rervin/.android/build-cache/2504f7c3adab831cbaaa2028210950f2b7dccb7f/output/res/raw/errormessage.wav"
     },
     {
         "merged": "/Users/bziegler/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/errormessage.wav",
@@ -36,11 +48,43 @@
         "source": "/Users/bziegler/.android/build-cache/9b9fbd754f1f6b530194527dbe296f6d4b843eed/output/res/raw/texture_fragment_shader.glsl"
     },
     {
+        "merged": "/Users/rervin/FTC_APP_MASTER/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/texture_vertex_shader.glsl",
+        "source": "/Users/rervin/.android/build-cache/e695a6c8c4d49c46d7df7f44f045d37f72af1239/output/res/raw/texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/rervin/FTC_APP_MASTER/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/nxtstartupsound.wav",
+        "source": "/Users/rervin/.android/build-cache/2504f7c3adab831cbaaa2028210950f2b7dccb7f/output/res/raw/nxtstartupsound.wav"
+    },
+    {
+        "merged": "/Users/rervin/FTC_APP_MASTER/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/color_fragment_shader.glsl",
+        "source": "/Users/rervin/.android/build-cache/e695a6c8c4d49c46d7df7f44f045d37f72af1239/output/res/raw/color_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/rervin/FTC_APP_MASTER/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/chimedisconnect.wav",
+        "source": "/Users/rervin/.android/build-cache/2504f7c3adab831cbaaa2028210950f2b7dccb7f/output/res/raw/chimedisconnect.wav"
+    },
+    {
         "merged": "/Users/bziegler/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/chimeconnect.wav",
         "source": "/Users/bziegler/.android/build-cache/485da507b373345b8243b228463269dff3dfd893/output/res/raw/chimeconnect.wav"
     },
     {
+        "merged": "/Users/rervin/FTC_APP_MASTER/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/texture_fragment_shader.glsl",
+        "source": "/Users/rervin/.android/build-cache/e695a6c8c4d49c46d7df7f44f045d37f72af1239/output/res/raw/texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/rervin/FTC_APP_MASTER/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/warningmessage.wav",
+        "source": "/Users/rervin/.android/build-cache/2504f7c3adab831cbaaa2028210950f2b7dccb7f/output/res/raw/warningmessage.wav"
+    },
+    {
         "merged": "/Users/bziegler/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/texture_vertex_shader.glsl",
         "source": "/Users/bziegler/.android/build-cache/9b9fbd754f1f6b530194527dbe296f6d4b843eed/output/res/raw/texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/rervin/FTC_APP_MASTER/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/chimeconnect.wav",
+        "source": "/Users/rervin/.android/build-cache/2504f7c3adab831cbaaa2028210950f2b7dccb7f/output/res/raw/chimeconnect.wav"
+    },
+    {
+        "merged": "/Users/rervin/FTC_APP_MASTER/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw/cube_mesh_vertex_shader.glsl",
+        "source": "/Users/rervin/.android/build-cache/e695a6c8c4d49c46d7df7f44f045d37f72af1239/output/res/raw/cube_mesh_vertex_shader.glsl"
     }
 ]
