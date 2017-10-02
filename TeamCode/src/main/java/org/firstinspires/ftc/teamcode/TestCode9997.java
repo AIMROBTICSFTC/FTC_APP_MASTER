@@ -58,7 +58,7 @@ import org.firstinspires.ftc.robotcontroller.external.samples.HardwareK9bot;
  * Remove or comment out the @Disabled line to add this opmode to the Driver Station OpMode list
  */
 
-@TeleOp(name="9997Tank", group="9997")
+@TeleOp(name="9997Arcade", group="9997")
 //@Disabled
 public class TestCode9997 extends LinearOpMode {
 

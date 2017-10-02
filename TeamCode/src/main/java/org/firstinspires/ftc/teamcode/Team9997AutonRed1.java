@@ -61,7 +61,6 @@ import org.firstinspires.ftc.teamcode.Team9997Hardware;
 @Autonomous(name="AutoRed1", group="9997")
 //@Disabled
 public class Team9997AutonRed1 extends LinearOpMode {
-
     /* Declare OpMode members. */
     Team9997Hardware robot  = new Team9997Hardware();
 
@@ -74,6 +73,7 @@ public class Team9997AutonRed1 extends LinearOpMode {
          * Initialize the drive system variables.
          * The init() method of the hardware class does all the work here
          */
+
         robot.init(hardwareMap);
 
         // Send telemetry message to signify robot waiting;
@@ -85,23 +85,31 @@ public class Team9997AutonRed1 extends LinearOpMode {
 
         // Step through each leg of the path, ensuring that the Auto mode has not been stopped along the way
 
+
+
+        while (robot.color_sensor.alpha() < 20) {
+            robot.leftMotor.setPower(robot.FORWARD_SPEED);
+            robot.rightMotor.setPower(robot.FORWARD_SPEED);
+        telemetry.addData("color", Integer.toString(robot.color_sensor.alpha()));
+            telemetry.update();
+        }
         // Step 1:  Drive forward for 3 seconds
-        robot.leftMotor.setPower(robot.FORWARD_SPEED);
-        robot.rightMotor.setPower(robot.FORWARD_SPEED);
-        runtime.reset();
-        while (opModeIsActive() && (runtime.seconds() < 3.0)) {
+       // robot.leftMotor.setPower(robot.FORWARD_SPEED);
+       // robot.rightMotor.setPower(robot.FORWARD_SPEED);
+       // runtime.reset();
+      //  while (opModeIsActive() && (runtime.seconds() < 3.0)) {
            // telemetry.addData("Path", "Leg 1: %2.5f S Elapsed", runtime.seconds());
            // telemetry.update();
-        }
+       // }
 
 
          //Step 2:  Spin right for 1.3 seconds
-       robot.leftMotor.setPower(robot.TURN_SPEED);
-        robot.rightMotor.setPower(-robot.TURN_SPEED);
-        runtime.reset();
-       while (opModeIsActive() && (runtime.seconds() < 1.3)) {
+      // robot.leftMotor.setPower(robot.TURN_SPEED);
+       // robot.rightMotor.setPower(-robot.TURN_SPEED);
+       // runtime.reset();
+      // while (opModeIsActive() && (runtime.seconds() < 1.3)) {
 
-        }
+      //  }
 /*
         // Step 3:  Drive Backwards for 1 Second
         robot.leftMotor.setPower(-robot.FORWARD_SPEED);
@@ -118,8 +126,8 @@ public class Team9997AutonRed1 extends LinearOpMode {
         robot.arm.setPosition(1.0);
         //robot.rightClaw.setPosition(0.0);
 */
-        telemetry.addData("Path", "Complete");
+       telemetry.addData("Path", "Complete");
         telemetry.update();
-        sleep(1000);
+        sleep(1000000000);
     }
 }

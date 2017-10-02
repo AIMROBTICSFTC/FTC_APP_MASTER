@@ -96,7 +96,7 @@ public class Team9997Hardware
 
         // Define and initialize ALL installed sensors.
 
-        //color_sensor = hwMap.colorSensor.get("color"); // uncomment to use color sensor,add too config
+        color_sensor = hwMap.colorSensor.get("color"); // uncomment to use color sensor,add too config
         digIn  = hwMap.digitalChannel.get("digin");     //  Use generic form of device mapping
 
     }
