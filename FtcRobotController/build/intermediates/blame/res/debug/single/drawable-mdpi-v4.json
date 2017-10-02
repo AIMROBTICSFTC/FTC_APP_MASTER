@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/hproctor/FTC_APP_MASTER/FtcRobotController/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/hproctor/FTC_APP_MASTER/FtcRobotController/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/bziegler/Desktop/ftc_app-master/FtcRobotController/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
         "source": "/Users/bziegler/Desktop/ftc_app-master/FtcRobotController/src/main/res/drawable-mdpi/ic_launcher.png"
     },

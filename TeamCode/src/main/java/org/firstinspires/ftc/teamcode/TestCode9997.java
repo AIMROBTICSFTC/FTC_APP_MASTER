@@ -1,4 +1,4 @@
-/*
+package org.firstinspires.ftc.teamcode;/*
 Copyright (c) 2016 Robert Atkinson
 
 All rights reserved.
@@ -30,7 +30,6 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
 TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
-package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.eventloop.opmode.Disabled;
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
@@ -42,6 +41,23 @@ import com.qualcomm.robotcore.hardware.Servo;
 
 import org.firstinspires.ftc.robotcontroller.external.samples.HardwareK9bot;
 
+/**
+ * This OpMode uses the common HardwareK9bot class to define the devices on the robot.
+ * All device access is managed through the HardwareK9bot class. (See this class for device names)
+ * The code is structured as a LinearOpMode
+ *
+ * This particular OpMode executes a basic Tank Drive Teleop for the K9 bot
+ * It raises and lowers the arm using the Gampad Y and A buttons respectively.
+ * It also opens and closes the claw slowly using the X and B buttons.
+ *
+ * Note: the configuration of the servos is such that
+ * as the arm servo approaches 0, the arm position moves up (away from the floor).
+ * Also, as the claw servo approaches 0, the claw opens up (drops the game element).
+ *
+ * Use Android Studios to Copy this Class, and Paste it into your team's code folder with a new name.
+ * Remove or comment out the @Disabled line to add this opmode to the Driver Station OpMode list
+ */
+
 @TeleOp(name="9997Tank", group="9997")
 //@Disabled
 public class TestCode9997 extends LinearOpMode {
@@ -51,10 +67,9 @@ public class TestCode9997 extends LinearOpMode {
 
     @Override
     public void runOpMode() {
-
         double left;
         double right;
-
+        double arm1;
         /* Initialize the hardware variables.
          * The init() method of the hardware class does all the work here
          */
@@ -70,12 +85,20 @@ public class TestCode9997 extends LinearOpMode {
         // run until the end of the match (driver presses STOP)
         while (opModeIsActive()) {
 
-
             // Run wheels in tank mode (note: The joystick goes negative when pushed forwards, so negate it)
-            left = -gamepad1.left_stick_y;
-            right = -gamepad1.right_stick_y;
-            robot.leftMotor.setPower(left);
-            robot.rightMotor.setPower(right);
+           if (gamepad1.right_trigger > 0){
+               robot.arm1.setPosition(100);
+           }
+              else{
+               robot.arm1.setPosition(10);
+           }
+
+
+
+            left = -gamepad1.right_stick_x + gamepad1.right_stick_y;
+            right = gamepad1.right_stick_x + gamepad1.right_stick_y;
+            robot.leftMotor.setPower(left * Math.abs(left));
+            robot.rightMotor.setPower(right * Math.abs(right));
 
             // Use gamepad Y & A raise and lower the arm
             if (gamepad1.a)
@@ -91,8 +114,8 @@ public class TestCode9997 extends LinearOpMode {
 */
 
             // Move both servos to new position.
-            robot.armPosition = Range.clip(robot.armPosition, robot.ARM_MIN_RANGE, robot.ARM_MAX_RANGE);
-            robot.arm.setPosition(robot.armPosition);
+            robot.armPosition  = Range.clip(robot.armPosition, robot.ARM_MIN_RANGE, robot.ARM_MAX_RANGE);
+            robot.arm1.setPosition(robot.armPosition);
 
 /*
 
@@ -101,16 +124,14 @@ public class TestCode9997 extends LinearOpMode {
 
 */
             // Send telemetry message to signify robot running;
-            telemetry.addData("arm", "%.2f", robot.armPosition);
+            telemetry.addData("arm",   "%.2f", robot.armPosition);
 //            telemetry.addData("claw",  "%.2f", clawPosition);
-            telemetry.addData("left", "%.2f", left);
+            telemetry.addData("left",  "%.2f", left);
             telemetry.addData("right", "%.2f", right);
             telemetry.update();
 
             // Pause for metronome tick.  40 mS each cycle = update 25 times a second.
             robot.waitForTick(40);
         }
-
     }
-
 }

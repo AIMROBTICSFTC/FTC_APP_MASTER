@@ -12,8 +12,20 @@
         "source": "/Users/bziegler/Desktop/ftc_app-master/FtcRobotController/build/intermediates/bundles/default/res/drawable-xhdpi-v4/icon_menu.png"
     },
     {
+        "merged": "/Users/hproctor/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_robotcontroller.png",
+        "source": "/Users/hproctor/FTC_APP_MASTER/FtcRobotController/build/intermediates/bundles/default/res/drawable-xhdpi-v4/icon_robotcontroller.png"
+    },
+    {
+        "merged": "/Users/hproctor/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_menu.png",
+        "source": "/Users/hproctor/FTC_APP_MASTER/FtcRobotController/build/intermediates/bundles/default/res/drawable-xhdpi-v4/icon_menu.png"
+    },
+    {
         "merged": "/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_robotcontroller.png",
         "source": "/Users/bziegler/Desktop/ftc_app-master/FtcRobotController/build/intermediates/bundles/default/res/drawable-xhdpi-v4/icon_robotcontroller.png"
+    },
+    {
+        "merged": "/Users/hproctor/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/hproctor/FTC_APP_MASTER/FtcRobotController/build/intermediates/bundles/default/res/drawable-xhdpi-v4/ic_launcher.png"
     },
     {
         "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_menu.png",

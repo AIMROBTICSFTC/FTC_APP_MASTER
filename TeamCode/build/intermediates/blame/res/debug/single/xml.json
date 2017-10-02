@@ -4,36 +4,16 @@
         "source": "/Users/bziegler/.android/build-cache/485da507b373345b8243b228463269dff3dfd893/output/res/xml/pushbotsens.xml"
     },
     {
-        "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/pushbotsens.xml",
-        "source": "/Users/rervin/.android/build-cache/2504f7c3adab831cbaaa2028210950f2b7dccb7f/output/res/xml/pushbotsens.xml"
-    },
-    {
         "merged": "/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/xml/maxmodules.xml",
         "source": "/Users/bziegler/.android/build-cache/485da507b373345b8243b228463269dff3dfd893/output/res/xml/maxmodules.xml"
-    },
-    {
-        "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/maxmodules.xml",
-        "source": "/Users/rervin/.android/build-cache/2504f7c3adab831cbaaa2028210950f2b7dccb7f/output/res/xml/maxmodules.xml"
-    },
-    {
-        "merged": "/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/xml/app_settings.xml",
-        "source": "/Users/bziegler/Desktop/ftc_app-master/FtcRobotController/build/intermediates/bundles/default/res/xml/app_settings.xml"
-    },
-    {
-        "merged": "/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/xml/squarebot.xml",
-        "source": "/Users/bziegler/.android/build-cache/485da507b373345b8243b228463269dff3dfd893/output/res/xml/squarebot.xml"
     },
     {
         "merged": "/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/xml/k9usbbot.xml",
         "source": "/Users/bziegler/.android/build-cache/485da507b373345b8243b228463269dff3dfd893/output/res/xml/k9usbbot.xml"
     },
     {
-        "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/k9legacybot.xml",
-        "source": "/Users/rervin/.android/build-cache/2504f7c3adab831cbaaa2028210950f2b7dccb7f/output/res/xml/k9legacybot.xml"
-    },
-    {
-        "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/device_filter.xml",
-        "source": "/Users/rervin/FTC_APP_MASTER/FtcRobotController/build/intermediates/bundles/default/res/xml/device_filter.xml"
+        "merged": "/Users/hproctor/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/rev_scoot.xml",
+        "source": "/Users/hproctor/.android/build-cache/eb77b50dda95330f19c5aad103f23b8db023cc47/output/res/xml/rev_scoot.xml"
     },
     {
         "merged": "/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/xml/pushbot.xml",
@@ -44,24 +24,20 @@
         "source": "/Users/bziegler/Desktop/ftc_app-master/FtcRobotController/build/intermediates/bundles/default/res/xml/device_filter.xml"
     },
     {
-        "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/rev_scoot.xml",
-        "source": "/Users/rervin/.android/build-cache/2504f7c3adab831cbaaa2028210950f2b7dccb7f/output/res/xml/rev_scoot.xml"
-    },
-    {
         "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/app_settings.xml",
         "source": "/Users/rervin/FTC_APP_MASTER/FtcRobotController/build/intermediates/bundles/default/res/xml/app_settings.xml"
+    },
+    {
+        "merged": "/Users/hproctor/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/k9usbbot.xml",
+        "source": "/Users/hproctor/.android/build-cache/eb77b50dda95330f19c5aad103f23b8db023cc47/output/res/xml/k9usbbot.xml"
     },
     {
         "merged": "/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/xml/rev_scoot.xml",
         "source": "/Users/bziegler/.android/build-cache/485da507b373345b8243b228463269dff3dfd893/output/res/xml/rev_scoot.xml"
     },
     {
-        "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/pushbot.xml",
-        "source": "/Users/rervin/.android/build-cache/2504f7c3adab831cbaaa2028210950f2b7dccb7f/output/res/xml/pushbot.xml"
-    },
-    {
-        "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/advanced_rc_settings.xml",
-        "source": "/Users/rervin/.android/build-cache/2504f7c3adab831cbaaa2028210950f2b7dccb7f/output/res/xml/advanced_rc_settings.xml"
+        "merged": "/Users/hproctor/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/squarebot.xml",
+        "source": "/Users/hproctor/.android/build-cache/eb77b50dda95330f19c5aad103f23b8db023cc47/output/res/xml/squarebot.xml"
     },
     {
         "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/k9usbbot.xml",
@@ -72,11 +48,75 @@
         "source": "/Users/bziegler/.android/build-cache/485da507b373345b8243b228463269dff3dfd893/output/res/xml/advanced_rc_settings.xml"
     },
     {
+        "merged": "/Users/hproctor/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/app_settings.xml",
+        "source": "/Users/hproctor/FTC_APP_MASTER/FtcRobotController/build/intermediates/bundles/default/res/xml/app_settings.xml"
+    },
+    {
+        "merged": "/Users/hproctor/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/pushbot.xml",
+        "source": "/Users/hproctor/.android/build-cache/eb77b50dda95330f19c5aad103f23b8db023cc47/output/res/xml/pushbot.xml"
+    },
+    {
+        "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/pushbotsens.xml",
+        "source": "/Users/rervin/.android/build-cache/2504f7c3adab831cbaaa2028210950f2b7dccb7f/output/res/xml/pushbotsens.xml"
+    },
+    {
+        "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/maxmodules.xml",
+        "source": "/Users/rervin/.android/build-cache/2504f7c3adab831cbaaa2028210950f2b7dccb7f/output/res/xml/maxmodules.xml"
+    },
+    {
+        "merged": "/Users/hproctor/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/pushbotsens.xml",
+        "source": "/Users/hproctor/.android/build-cache/eb77b50dda95330f19c5aad103f23b8db023cc47/output/res/xml/pushbotsens.xml"
+    },
+    {
+        "merged": "/Users/hproctor/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/advanced_rc_settings.xml",
+        "source": "/Users/hproctor/.android/build-cache/eb77b50dda95330f19c5aad103f23b8db023cc47/output/res/xml/advanced_rc_settings.xml"
+    },
+    {
+        "merged": "/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/xml/app_settings.xml",
+        "source": "/Users/bziegler/Desktop/ftc_app-master/FtcRobotController/build/intermediates/bundles/default/res/xml/app_settings.xml"
+    },
+    {
+        "merged": "/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/xml/squarebot.xml",
+        "source": "/Users/bziegler/.android/build-cache/485da507b373345b8243b228463269dff3dfd893/output/res/xml/squarebot.xml"
+    },
+    {
+        "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/device_filter.xml",
+        "source": "/Users/rervin/FTC_APP_MASTER/FtcRobotController/build/intermediates/bundles/default/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/k9legacybot.xml",
+        "source": "/Users/rervin/.android/build-cache/2504f7c3adab831cbaaa2028210950f2b7dccb7f/output/res/xml/k9legacybot.xml"
+    },
+    {
+        "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/rev_scoot.xml",
+        "source": "/Users/rervin/.android/build-cache/2504f7c3adab831cbaaa2028210950f2b7dccb7f/output/res/xml/rev_scoot.xml"
+    },
+    {
+        "merged": "/Users/hproctor/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/k9legacybot.xml",
+        "source": "/Users/hproctor/.android/build-cache/eb77b50dda95330f19c5aad103f23b8db023cc47/output/res/xml/k9legacybot.xml"
+    },
+    {
+        "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/pushbot.xml",
+        "source": "/Users/rervin/.android/build-cache/2504f7c3adab831cbaaa2028210950f2b7dccb7f/output/res/xml/pushbot.xml"
+    },
+    {
+        "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/advanced_rc_settings.xml",
+        "source": "/Users/rervin/.android/build-cache/2504f7c3adab831cbaaa2028210950f2b7dccb7f/output/res/xml/advanced_rc_settings.xml"
+    },
+    {
         "merged": "/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/xml/k9legacybot.xml",
         "source": "/Users/bziegler/.android/build-cache/485da507b373345b8243b228463269dff3dfd893/output/res/xml/k9legacybot.xml"
     },
     {
         "merged": "/Users/rervin/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/squarebot.xml",
         "source": "/Users/rervin/.android/build-cache/2504f7c3adab831cbaaa2028210950f2b7dccb7f/output/res/xml/squarebot.xml"
+    },
+    {
+        "merged": "/Users/hproctor/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/maxmodules.xml",
+        "source": "/Users/hproctor/.android/build-cache/eb77b50dda95330f19c5aad103f23b8db023cc47/output/res/xml/maxmodules.xml"
+    },
+    {
+        "merged": "/Users/hproctor/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/xml/device_filter.xml",
+        "source": "/Users/hproctor/FTC_APP_MASTER/FtcRobotController/build/intermediates/bundles/default/res/xml/device_filter.xml"
     }
 ]

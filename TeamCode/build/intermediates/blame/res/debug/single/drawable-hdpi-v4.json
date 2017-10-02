@@ -8,6 +8,14 @@
         "source": "/Users/rervin/.android/build-cache/2504f7c3adab831cbaaa2028210950f2b7dccb7f/output/res/drawable-hdpi-v4/button_shape.xml"
     },
     {
+        "merged": "/Users/hproctor/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/hproctor/FTC_APP_MASTER/FtcRobotController/build/intermediates/bundles/default/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hproctor/FTC_APP_MASTER/TeamCode/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_shape.xml",
+        "source": "/Users/hproctor/.android/build-cache/eb77b50dda95330f19c5aad103f23b8db023cc47/output/res/drawable-hdpi-v4/button_shape.xml"
+    },
+    {
         "merged": "/Users/bziegler/Desktop/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_shape.xml",
         "source": "/Users/bziegler/.android/build-cache/485da507b373345b8243b228463269dff3dfd893/output/res/drawable-hdpi-v4/button_shape.xml"
     },
