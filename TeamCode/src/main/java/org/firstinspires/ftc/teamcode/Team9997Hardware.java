@@ -31,7 +31,7 @@ public class Team9997Hardware
     /* Public OpMode members. */
     public DcMotor  leftMotor   = null;
     public DcMotor  rightMotor  = null;
-    public Servo    arm1         = null;
+    //public Servo    arm1         = null;
     public ColorSensor    color_sensor;
     public DigitalChannel digIn;
 
@@ -88,8 +88,8 @@ public class Team9997Hardware
         //rightMotor.setMode(DcMotor.RunMode.STOP_AND_RESET_ENCODER);
 
         // Define and initialize ALL installed servos.
-        arm1 = hwMap.servo.get("arm1");
-        arm1.setPosition(ARM_HOME);
+      //  arm1 = hwMap.servo.get("arm1");
+       // arm1.setPosition(ARM_HOME);
 
 
         //       claw.setPosition(CLAW_HOME);

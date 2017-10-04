@@ -86,14 +86,14 @@ public class TestCode9997 extends LinearOpMode {
         while (opModeIsActive()) {
 
             // Run wheels in tank mode (note: The joystick goes negative when pushed forwards, so negate it)
-           if (gamepad1.right_trigger > 0){
+           /*if (gamepad1.right_trigger > 0){
                robot.arm1.setPosition(100);
            }
               else{
                robot.arm1.setPosition(10);
            }
 
-
+*/
 
             left = -gamepad1.right_stick_x + gamepad1.right_stick_y;
             right = gamepad1.right_stick_x + gamepad1.right_stick_y;
@@ -114,8 +114,8 @@ public class TestCode9997 extends LinearOpMode {
 */
 
             // Move both servos to new position.
-            robot.armPosition  = Range.clip(robot.armPosition, robot.ARM_MIN_RANGE, robot.ARM_MAX_RANGE);
-            robot.arm1.setPosition(robot.armPosition);
+          //  robot.armPosition  = Range.clip(robot.armPosition, robot.ARM_MIN_RANGE, robot.ARM_MAX_RANGE);
+          //  robot.arm1.setPosition(robot.armPosition);
 
 /*
 

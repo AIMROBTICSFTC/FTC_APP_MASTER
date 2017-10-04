@@ -87,7 +87,7 @@ public class Team9997AutonRed1 extends LinearOpMode {
 
 
 
-        while (robot.color_sensor.alpha() < 20) {
+        while (robot.color_sensor.alpha() < 20 && (opModeIsActive())) {
             robot.leftMotor.setPower(robot.FORWARD_SPEED);
             robot.rightMotor.setPower(robot.FORWARD_SPEED);
         telemetry.addData("color", Integer.toString(robot.color_sensor.alpha()));
@@ -126,8 +126,8 @@ public class Team9997AutonRed1 extends LinearOpMode {
         robot.arm.setPosition(1.0);
         //robot.rightClaw.setPosition(0.0);
 */
-       telemetry.addData("Path", "Complete");
-        telemetry.update();
+      // telemetry.addData("Path", "Complete");
+       // telemetry.update();
         sleep(1000000000);
     }
 }
